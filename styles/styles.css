@@ -1,0 +1,27 @@
+header {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background: lightblue;
+  height: 100vh;
+}
+
+header button {
+  background: #707d7c;
+}
+
+header button:hover {
+  background: red;
+}
+/*# sourceMappingURL=styles.css.map */
